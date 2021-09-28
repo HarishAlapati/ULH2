@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="11" passed="11" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-09-28T19:27:59 IST" name="Suite" finished-at="2021-09-28T19:33:43 IST" duration-ms="344429">
+    <groups>
+    </groups>
+    <test started-at="2021-09-28T19:27:59 IST" name="Test" finished-at="2021-09-28T19:33:43 IST" duration-ms="344429">
+      <class name="com.ULHPOM.Runner.AllTestcases">
+        <test-method is-config="true" signature="in()[pri:0, instance:com.ULHPOM.Runner.AllTestcases@543588e6]" started-at="2021-09-28T19:28:00 IST" name="in" finished-at="2021-09-28T19:28:15 IST" duration-ms="15473" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- in -->
+        <test-method signature="TrackOrder(java.lang.String,java.lang.String)[pri:0, instance:com.ULHPOM.Runner.AllTestcases@543588e6]" started-at="2021-09-28T19:28:15 IST" name="TrackOrder" data-provider="getData" finished-at="2021-09-28T19:28:29 IST" duration-ms="14146" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[U1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[P1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TrackOrder -->
+        <test-method is-config="true" signature="closeDriverM()[pri:0, instance:com.ULHPOM.Runner.AllTestcases@543588e6]" started-at="2021-09-28T19:28:30 IST" name="closeDriverM" finished-at="2021-09-28T19:28:31 IST" duration-ms="818" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriverM -->
+        <test-method is-config="true" signature="in()[pri:0, instance:com.ULHPOM.Runner.AllTestcases@543588e6]" started-at="2021-09-28T19:28:31 IST" name="in" finished-at="2021-09-28T19:28:47 IST" duration-ms="16135" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- in -->
+        <test-method signature="TrackOrder(java.lang.String,java.lang.String)[pri:0, instance:com.ULHPOM.Runner.AllTestcases@543588e6]" started-at="2021-09-28T19:28:47 IST" name="TrackOrder" data-provider="getData" finished-at="2021-09-28T19:29:01 IST" duration-ms="13687" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[U2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[P2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TrackOrder -->
+        <test-method is-config="true" signature="closeDriverM()[pri:0, instance:com.ULHPOM.Runner.AllTestcases@543588e6]" started-at="2021-09-28T19:29:01 IST" name="closeDriverM" finished-at="2021-09-28T19:29:02 IST" duration-ms="786" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriverM -->
+        <test-method is-config="true" signature="in()[pri:0, instance:com.ULHPOM.Runner.AllTestcases@543588e6]" started-at="2021-09-28T19:29:02 IST" name="in" finished-at="2021-09-28T19:29:17 IST" duration-ms="15241" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- in -->
+        <test-method signature="GetCities()[pri:1, instance:com.ULHPOM.Runner.AllTestcases@543588e6]" started-at="2021-09-28T19:29:17 IST" name="GetCities" finished-at="2021-09-28T19:29:22 IST" duration-ms="5337" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetCities -->
+        <test-method is-config="true" signature="closeDriverM()[pri:0, instance:com.ULHPOM.Runner.AllTestcases@543588e6]" started-at="2021-09-28T19:29:23 IST" name="closeDriverM" finished-at="2021-09-28T19:29:23 IST" duration-ms="755" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriverM -->
+        <test-method is-config="true" signature="in()[pri:0, instance:com.ULHPOM.Runner.AllTestcases@543588e6]" started-at="2021-09-28T19:29:23 IST" name="in" finished-at="2021-09-28T19:29:42 IST" duration-ms="18639" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- in -->
+        <test-method signature="TvPrice()[pri:2, instance:com.ULHPOM.Runner.AllTestcases@543588e6]" started-at="2021-09-28T19:29:42 IST" name="TvPrice" finished-at="2021-09-28T19:29:52 IST" duration-ms="10386" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TvPrice -->
+        <test-method is-config="true" signature="closeDriverM()[pri:0, instance:com.ULHPOM.Runner.AllTestcases@543588e6]" started-at="2021-09-28T19:29:53 IST" name="closeDriverM" finished-at="2021-09-28T19:29:53 IST" duration-ms="739" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriverM -->
+        <test-method is-config="true" signature="in()[pri:0, instance:com.ULHPOM.Runner.AllTestcases@543588e6]" started-at="2021-09-28T19:29:53 IST" name="in" finished-at="2021-09-28T19:30:17 IST" duration-ms="23517" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- in -->
+        <test-method signature="VerifyGiftCard()[pri:3, instance:com.ULHPOM.Runner.AllTestcases@543588e6]" started-at="2021-09-28T19:30:17 IST" name="VerifyGiftCard" finished-at="2021-09-28T19:30:44 IST" duration-ms="27189" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyGiftCard -->
+        <test-method is-config="true" signature="closeDriverM()[pri:0, instance:com.ULHPOM.Runner.AllTestcases@543588e6]" started-at="2021-09-28T19:30:45 IST" name="closeDriverM" finished-at="2021-09-28T19:30:45 IST" duration-ms="722" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriverM -->
+        <test-method is-config="true" signature="in()[pri:0, instance:com.ULHPOM.Runner.AllTestcases@543588e6]" started-at="2021-09-28T19:30:45 IST" name="in" finished-at="2021-09-28T19:31:05 IST" duration-ms="19402" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- in -->
+        <test-method signature="GetTwitterFollowers()[pri:4, instance:com.ULHPOM.Runner.AllTestcases@543588e6]" started-at="2021-09-28T19:31:05 IST" name="GetTwitterFollowers" finished-at="2021-09-28T19:31:27 IST" duration-ms="22501" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetTwitterFollowers -->
+        <test-method is-config="true" signature="closeDriverM()[pri:0, instance:com.ULHPOM.Runner.AllTestcases@543588e6]" started-at="2021-09-28T19:31:28 IST" name="closeDriverM" finished-at="2021-09-28T19:31:28 IST" duration-ms="774" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriverM -->
+        <test-method is-config="true" signature="in()[pri:0, instance:com.ULHPOM.Runner.AllTestcases@543588e6]" started-at="2021-09-28T19:31:28 IST" name="in" finished-at="2021-09-28T19:31:42 IST" duration-ms="13914" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- in -->
+        <test-method signature="CheckoutItem()[pri:5, instance:com.ULHPOM.Runner.AllTestcases@543588e6]" started-at="2021-09-28T19:31:42 IST" name="CheckoutItem" finished-at="2021-09-28T19:31:58 IST" duration-ms="15834" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckoutItem -->
+        <test-method is-config="true" signature="closeDriverM()[pri:0, instance:com.ULHPOM.Runner.AllTestcases@543588e6]" started-at="2021-09-28T19:31:58 IST" name="closeDriverM" finished-at="2021-09-28T19:31:59 IST" duration-ms="870" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriverM -->
+        <test-method is-config="true" signature="in()[pri:0, instance:com.ULHPOM.Runner.AllTestcases@543588e6]" started-at="2021-09-28T19:31:59 IST" name="in" finished-at="2021-09-28T19:32:28 IST" duration-ms="28609" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- in -->
+        <test-method signature="ChatSupportCkeck()[pri:6, instance:com.ULHPOM.Runner.AllTestcases@543588e6]" started-at="2021-09-28T19:32:28 IST" name="ChatSupportCkeck" finished-at="2021-09-28T19:32:40 IST" duration-ms="11751" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ChatSupportCkeck -->
+        <test-method is-config="true" signature="closeDriverM()[pri:0, instance:com.ULHPOM.Runner.AllTestcases@543588e6]" started-at="2021-09-28T19:32:40 IST" name="closeDriverM" finished-at="2021-09-28T19:32:41 IST" duration-ms="798" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriverM -->
+        <test-method is-config="true" signature="in()[pri:0, instance:com.ULHPOM.Runner.AllTestcases@543588e6]" started-at="2021-09-28T19:32:41 IST" name="in" finished-at="2021-09-28T19:32:54 IST" duration-ms="13716" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- in -->
+        <test-method signature="NoOfLinksinStoresPage()[pri:7, instance:com.ULHPOM.Runner.AllTestcases@543588e6]" started-at="2021-09-28T19:32:54 IST" name="NoOfLinksinStoresPage" finished-at="2021-09-28T19:33:02 IST" duration-ms="7523" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NoOfLinksinStoresPage -->
+        <test-method is-config="true" signature="closeDriverM()[pri:0, instance:com.ULHPOM.Runner.AllTestcases@543588e6]" started-at="2021-09-28T19:33:02 IST" name="closeDriverM" finished-at="2021-09-28T19:33:03 IST" duration-ms="862" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriverM -->
+        <test-method is-config="true" signature="in()[pri:0, instance:com.ULHPOM.Runner.AllTestcases@543588e6]" started-at="2021-09-28T19:33:03 IST" name="in" finished-at="2021-09-28T19:33:19 IST" duration-ms="15583" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- in -->
+        <test-method signature="SearchForItem()[pri:8, instance:com.ULHPOM.Runner.AllTestcases@543588e6]" started-at="2021-09-28T19:33:19 IST" name="SearchForItem" finished-at="2021-09-28T19:33:22 IST" duration-ms="3125" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchForItem -->
+        <test-method is-config="true" signature="closeDriverM()[pri:0, instance:com.ULHPOM.Runner.AllTestcases@543588e6]" started-at="2021-09-28T19:33:22 IST" name="closeDriverM" finished-at="2021-09-28T19:33:23 IST" duration-ms="858" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriverM -->
+        <test-method is-config="true" signature="in()[pri:0, instance:com.ULHPOM.Runner.AllTestcases@543588e6]" started-at="2021-09-28T19:33:23 IST" name="in" finished-at="2021-09-28T19:33:38 IST" duration-ms="15350" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- in -->
+        <test-method signature="SelectRecommendations()[pri:9, instance:com.ULHPOM.Runner.AllTestcases@543588e6]" started-at="2021-09-28T19:33:38 IST" name="SelectRecommendations" finished-at="2021-09-28T19:33:42 IST" duration-ms="3980" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SelectRecommendations -->
+        <test-method is-config="true" signature="closeDriverM()[pri:0, instance:com.ULHPOM.Runner.AllTestcases@543588e6]" started-at="2021-09-28T19:33:43 IST" name="closeDriverM" finished-at="2021-09-28T19:33:43 IST" duration-ms="760" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriverM -->
+      </class> <!-- com.ULHPOM.Runner.AllTestcases -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

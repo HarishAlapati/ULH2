@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT" verbose="0">
+  <listeners>
+    <listener class-name="com.UrbanLadder.Utilities.listeners"/>
+    <listener class-name="com.UrbanLadder.Utilities.ExtentReport"/>
+  </listeners>
+  <test thread-count="5" name="Test(failed)" verbose="0">
+    <classes>
+      <class name="com.UrbanLadder.Runner.AllTestcases">
+        <methods>
+          <include name="SearchForItem"/>
+          <include name="VerifyGiftCard"/>
+          <include name="GetCities"/>
+          <include name="TrackOrder"/>
+          <include name="in"/>
+          <include name="closeDriverM"/>
+          <include name="SelectRecommendations"/>
+          <include name="ChatSupportCkeck"/>
+          <include name="GetTwitterFollowers"/>
+          <include name="CheckoutItem"/>
+          <include name="NoOfLinksinStoresPage"/>
+          <include name="TvPrice"/>
+        </methods>
+      </class> <!-- com.UrbanLadder.Runner.AllTestcases -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

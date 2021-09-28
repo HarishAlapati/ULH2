@@ -1,0 +1,15 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 33, Failures: 1, Errors: 0, Skipped: 32, Time elapsed: 30.693 s <<< FAILURE! - in TestSuite
+com.UrbanLadder.Runner.AllTestcases.in  Time elapsed: 22.396 s  <<< FAILURE!
+org.openqa.selenium.WebDriverException: 
+unknown error: net::ERR_INTERNET_DISCONNECTED
+  (Session info: chrome=93.0.4577.82)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'HARISH', ip: '127.0.0.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 93.0.4577.82, chrome: {chromedriverVersion: 92.0.4515.107 (87a818b10553..., userDataDir: C:\Windows\TEMP\scoped_dir2...}, goog:chromeOptions: {debuggerAddress: localhost:64012}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ad0bc4679170cd76e5cd3aba20e4df58
+	at com.UrbanLadder.Runner.AllTestcases.in(AllTestcases.java:31)
+
